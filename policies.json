@@ -1,0 +1,312 @@
+{
+ "terms": {
+  "title": "Terms & Conditions",
+  "path": "/terms-and-conditions",
+  "updated": "29 September 2026",
+  "sections": [
+   {
+    "h": "1. Acceptance of Terms",
+    "b": [
+     "By accessing or using the ProMaazEdits website, registering an account, or purchasing a course, you agree to these Terms & Conditions.",
+     "Please read them before using the website or purchasing any digital product. If you do not agree, please do not use the website or buy a course."
+    ]
+   },
+   {
+    "h": "2. About Our Services",
+    "b": [
+     "ProMaazEdits provides online video editing courses, recorded lectures, masterclasses, tutorials and related educational materials.",
+     "The features, price, curriculum and access conditions of each course are displayed on its product page. Please review them before you buy."
+    ]
+   },
+   {
+    "h": "3. User Accounts",
+    "b": [
+     "You must provide accurate information when registering or purchasing a course.",
+     "You are responsible for keeping your login credentials secure. Accounts are personal and must not be shared or used to give unauthorized people access to paid courses. For security, the website may limit how many devices can be signed in to one account at the same time and may sign out older devices.",
+     "Please tell us promptly if you suspect unauthorized access to your account."
+    ]
+   },
+   {
+    "h": "4. Payments",
+    "b": [
+     "Payments may be accepted through Razorpay, UPI or other payment methods supported by the website. Prices and applicable charges are displayed before purchase.",
+     "A payment is considered successful only after it has been confirmed by the payment provider and verified by our systems.",
+     "Please do not make a second payment for an order that has already been paid successfully, unless a new charge is clearly identified and you have authorized it. If your payment succeeded but the website shows otherwise, contact us first."
+    ]
+   },
+   {
+    "h": "5. Course Access",
+    "b": [
+     "Access to a course is provided according to the purchased product and the access conditions stated at the time of purchase. Access duration and included learning materials are communicated before payment.",
+     "If you cannot access a course after a successful payment, please contact us using the details in Section 13."
+    ]
+   },
+   {
+    "h": "6. Intellectual Property",
+    "b": [
+     "Course videos, tutorials, written materials, graphics, logos, branding and other original content of ProMaazEdits are protected by applicable intellectual property laws.",
+     "Purchasing a course gives you a limited, personal, non-transferable right to access and use the purchased content for your own educational purposes. It does not transfer ownership or copyright to you.",
+     "You must not copy, reproduce, redistribute, resell, publicly upload or commercially exploit protected course content without our written authorization."
+    ]
+   },
+   {
+    "h": "7. Prohibited Activities",
+    "b": [
+     "You must not:",
+     [
+      "Share paid course credentials with unauthorized people.",
+      "Redistribute, record for distribution, or resell paid course videos.",
+      "Remove, hide or tamper with on-screen watermarks or other content-protection measures.",
+      "Attempt to bypass payment or access restrictions.",
+      "Use the website for fraudulent or unlawful purposes.",
+      "Attempt unauthorized access to the website's systems.",
+      "Infringe intellectual property rights."
+     ]
+    ]
+   },
+   {
+    "h": "8. Educational Disclaimer",
+    "b": [
+     "Our courses are provided for educational purposes. ProMaazEdits does not guarantee any specific income, employment opportunity, follower count, business outcome or level of editing skill.",
+     "Results depend on individual effort, practice, experience and other circumstances. Nothing in this section excludes any responsibility that cannot lawfully be excluded."
+    ]
+   },
+   {
+    "h": "9. Website Availability",
+    "b": [
+     "We make reasonable efforts to keep the website available. Temporary interruptions may occur because of maintenance, technical issues or circumstances beyond our reasonable control.",
+     "We will take reasonable steps to address significant service interruptions."
+    ]
+   },
+   {
+    "h": "10. Account Suspension",
+    "b": [
+     "Accounts may be restricted or suspended in cases involving fraud, unauthorized distribution of paid content, security violations or serious breaches of these terms.",
+     "Any action will be taken subject to applicable law and any rights you may have."
+    ]
+   },
+   {
+    "h": "11. Limitation of Liability",
+    "b": [
+     "Nothing in these terms excludes or limits any liability or consumer right that cannot legally be excluded or limited.",
+     "Any permitted limitation of liability will be interpreted in accordance with applicable law."
+    ]
+   },
+   {
+    "h": "12. Governing Law",
+    "b": [
+     "These terms are governed by the laws of India, subject to applicable consumer protection laws and the jurisdiction of competent courts and authorities."
+    ]
+   },
+   {
+    "h": "13. Contact Information",
+    "b": [
+     "Business Name: ProMaazEdits",
+     "Email: {EMAIL}"
+    ]
+   }
+  ]
+ },
+ "privacy": {
+  "title": "Privacy Policy",
+  "path": "/privacy-policy",
+  "updated": "29 September 2026",
+  "sections": [
+   {
+    "h": "1. Introduction",
+    "b": [
+     "ProMaazEdits respects the privacy of its website visitors and students.",
+     "This policy explains how personal information is collected, used, stored and shared when you use the website or purchase online courses."
+    ]
+   },
+   {
+    "h": "2. Information We Collect",
+    "b": [
+     "Based on the features currently on the website, we may collect:",
+     [
+      "Name and email address.",
+      "Account information. Your password is stored only as a secure hash, never as plain text.",
+      "Course purchase and enrollment records.",
+      "Order IDs, payment IDs, amounts and payment status. We do not receive or store your card, UPI or bank credentials.",
+      "Course progress (which lessons you have marked complete).",
+      "Login session and device information, such as your IP address, browser/device details and a device identifier cookie, used for security and device limits.",
+      "Messages you send to us for customer support."
+     ]
+    ]
+   },
+   {
+    "h": "3. Payment Information",
+    "b": [
+     "Payments are processed by third-party payment providers such as Razorpay, under the provider's own terms and privacy policy.",
+     "ProMaazEdits will never ask for your UPI PIN, CVV, OTP or payment passwords.",
+     "Payment records are handled securely and retained only as necessary for legitimate business operations and legal obligations."
+    ]
+   },
+   {
+    "h": "4. How We Use Information",
+    "b": [
+     "We use information to:",
+     [
+      "Create and manage user accounts.",
+      "Process and verify payments.",
+      "Provide access to purchased courses.",
+      "Maintain your course progress.",
+      "Respond to support requests.",
+      "Send essential transaction-related notifications.",
+      "Show your name and email as a watermark on course videos to deter unauthorized sharing.",
+      "Prevent fraud and protect website security.",
+      "Comply with applicable legal obligations."
+     ],
+     "Marketing communications, if any, will be sent only in accordance with applicable law and consent requirements."
+    ]
+   },
+   {
+    "h": "5. Sharing of Information",
+    "b": [
+     "Information may be shared with service providers when necessary to operate the website, such as payment processors (Razorpay), video delivery providers, and website hosting and database providers.",
+     "Information may also be disclosed where required by law. We do not sell personal information."
+    ]
+   },
+   {
+    "h": "6. Cookies and Analytics",
+    "b": [
+     "The website uses essential cookies to keep you signed in and to recognize your device for security. These are necessary for the website to work.",
+     "At the time of writing, the website does not use advertising or analytics tracking tools. If this changes, this policy will be updated and any required consent and controls will be provided.",
+     "The website loads fonts from Google Fonts, and the checkout and video player are provided by third parties, which may receive technical data such as your IP address."
+    ]
+   },
+   {
+    "h": "7. Data Security",
+    "b": [
+     "We use reasonable technical and organizational safeguards to protect personal information, including secure password hashing and server-side payment verification. Secret API keys are kept on the server and are not exposed in the website's frontend code.",
+     "No internet-based system can be guaranteed completely secure."
+    ]
+   },
+   {
+    "h": "8. Data Retention",
+    "b": [
+     "We retain personal information only as long as reasonably necessary for the purposes in this policy or as required by law.",
+     "Certain transaction and accounting records may need to be retained for legal or financial compliance."
+    ]
+   },
+   {
+    "h": "9. User Requests",
+    "b": [
+     "You may contact us to request access to, correction of, or deletion of your personal information, subject to applicable law and legitimate retention requirements. We will handle requests according to applicable legal requirements."
+    ]
+   },
+   {
+    "h": "10. Third-Party Services",
+    "b": [
+     "Third-party services operate under their own privacy policies and terms. Please review them when you use those services. This section does not exclude any responsibility that applicable law places on ProMaazEdits."
+    ]
+   },
+   {
+    "h": "11. Children's Privacy",
+    "b": [
+     "We handle children's personal information in accordance with applicable Indian law. Where required, appropriate parental or guardian consent and safeguards will be implemented. If you are under 18, please use the website with the involvement of a parent or guardian, and contact us if you believe a child's data was provided without required consent."
+    ]
+   },
+   {
+    "h": "12. Policy Updates",
+    "b": [
+     "We may update this policy when business practices, website features or legal requirements change. The current version and its last-updated date are shown at the top of this page."
+    ]
+   },
+   {
+    "h": "13. Contact Information",
+    "b": [
+     "Business Name: ProMaazEdits",
+     "Privacy Contact Email: {EMAIL}"
+    ]
+   }
+  ]
+ },
+ "refund": {
+  "title": "Refund Policy",
+  "path": "/refund-policy",
+  "updated": "29 September 2026",
+  "sections": [
+   {
+    "h": "1. General Policy",
+    "b": [
+     "ProMaazEdits offers digital video editing courses, recorded lectures, online masterclasses and related educational materials.",
+     "Please review the course description, curriculum, price, included features and access conditions carefully before you buy.",
+     "Once a purchase has been successfully completed, the payment is generally final and non-refundable, subject to applicable law and the exceptions described below."
+    ]
+   },
+   {
+    "h": "2. No Refund for Change of Mind",
+    "b": [
+     "Refunds will not ordinarily be provided merely because:",
+     [
+      "You change your mind after purchasing.",
+      "You decide not to continue learning.",
+      "You do not watch or complete the course.",
+      "You do not use the purchased course.",
+      "You are dissatisfied with your personal learning progress.",
+      "You purchased the wrong course, where no refund entitlement exists under applicable law."
+     ],
+     "Please make your purchase decision carefully."
+    ]
+   },
+   {
+    "h": "3. No Second Payment for the Same Order",
+    "b": [
+     "Once a payment has been successfully completed for a course order, you will not be required to pay again for that same order.",
+     "If the website shows an unpaid status despite a successful payment, please contact support before attempting another payment. We will verify the transaction before asking you to pay again."
+    ]
+   },
+   {
+    "h": "4. Duplicate Payments and Payment Errors",
+    "b": [
+     "If you are charged twice for the same order, or money is deducted without a corresponding successful order, contact support with your transaction reference.",
+     "We will investigate and handle the issue according to the payment provider's procedures and applicable law."
+    ]
+   },
+   {
+    "h": "5. Course Access Problems",
+    "b": [
+     "If you have successfully paid but cannot access the purchased course, we will investigate and make reasonable efforts to restore your access.",
+     "Where access cannot be provided, or applicable law requires a refund or another remedy, the matter will be handled accordingly."
+    ]
+   },
+   {
+    "h": "6. Legal Exceptions",
+    "b": [
+     "This policy does not remove any refund rights, consumer protections or other remedies that cannot legally be excluded.",
+     "Verified duplicate payments, erroneous charges, material deficiencies in the purchased service and other legally eligible claims will be handled in accordance with applicable law."
+    ]
+   },
+   {
+    "h": "7. Refund Processing",
+    "b": [
+     "Where a refund is approved or legally required, it will be processed to the original payment method where reasonably possible, according to applicable law and payment-provider procedures.",
+     "The time for funds to appear may depend on your bank or payment provider."
+    ]
+   },
+   {
+    "h": "8. How to Contact Support",
+    "b": [
+     "When reporting a payment issue, please provide:",
+     [
+      "The name used during purchase.",
+      "Your registered email address, if applicable.",
+      "The course name.",
+      "The order ID or transaction reference.",
+      "A description of the issue.",
+      "Payment confirmation, if available."
+     ],
+     "Contact Email: {EMAIL}",
+     "Never share your passwords, OTPs, UPI PINs, CVVs or payment passwords with anyone."
+    ]
+   },
+   {
+    "h": "9. Policy Updates",
+    "b": [
+     "The latest version of this policy is always shown on this page. Policy changes will not unlawfully remove rights associated with earlier purchases."
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@theme {
+  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --color-ink: #0c0c12;
+  --color-panel: #14141d;
+  --color-line: #262633;
+  --color-accent: #7c5cff;
+  --color-accent-soft: #a99bff;
+}
+html { scroll-behavior: smooth; scroll-padding-top: 5rem; }
+body { background: var(--color-ink); color: #f3f3f8; font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; }
+:focus-visible { outline: 2px solid var(--color-accent-soft); outline-offset: 3px; }
+.reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+.reveal.in { opacity: 1; transform: none; }
+@keyframes playhead { from { left: 8%; } to { left: 88%; } }
+.playhead { animation: playhead 6s linear infinite alternate; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .reveal { opacity: 1; transform: none; transition: none; }
+  .playhead { animation: none; left: 40%; }
+}
+
+/* Student watermark: drifts across the video with only transform (cheap for the GPU); sizes follow the player box */
+.wm-drift {
+  width: max-content; max-width: 60cqw; font-size: clamp(9px, 2.4cqw, 14px); line-height: 1.25; word-break: break-all;
+  color: #fff; opacity: 0.5; text-shadow: 0 0 3px #000, 0 0 2px #000; will-change: transform;
+  animation: wm-drift 24s linear infinite;
+}
+@keyframes wm-drift {
+  0%, 100% { transform: translate(3cqw, 6cqh); } 25% { transform: translate(36cqw, 30cqh); }
+  50% { transform: translate(10cqw, 60cqh); } 75% { transform: translate(34cqw, 80cqh); }
+}
+@media (prefers-reduced-motion: reduce) { .wm-drift { animation: none; transform: translate(3cqw, 6cqh); } }
